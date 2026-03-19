@@ -11,6 +11,7 @@ unzip 2011_09_26_drive_0084_extract.zip
 unzip 2011_09_26_calib.zip
 python kitti2bag.py -t 2011_09_26 -r 0084 raw_synced .
 ```
+测试git同步效果
 
 That's it. You have a bag that contains your data.
 
